@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/djagogirls/.idea/djagogirls.iml" filepath="$USER_HOME$/Documents/GitHub/djagogirls/.idea/djagogirls.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/myproject.iml" filepath="$PROJECT_DIR$/.idea/myproject.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/tela-mis/.idea/tela-mis.iml" filepath="$USER_HOME$/Documents/GitHub/tela-mis/.idea/tela-mis.iml" />
     </modules>
   </component>
 </project>
