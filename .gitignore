@@ -1,3 +1,9 @@
+env
+**/.idea/
+*.DS_Store
+*.pyc
+*.sqlite3
+__pycache__
 # Created by .ignore support plugin (hsz.mobi)
 .idea
 db.sqlite3
